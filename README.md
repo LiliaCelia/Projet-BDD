@@ -2,7 +2,7 @@
 
 ## ce projet a été réalisé par Benachenhou Silya et Makour Sarah
 
-#Création d’une Base de Données à partir d’APIs
+##Création d’une Base de Données à partir d’APIs
 Dans ce projet, nous allons procéder à la création d’une Base de Données relationnelle via les plusieurs APIs.
 Notre projet est intitulé « création et manipulation d’une Base de Donnée à partir d’API flight et API Covid ». Le choix de des APIs c’est dans le but de voir l’impact de la pandémie Covid-19 sur les flux aériens.
 ##1.	Choix d’APIs :
